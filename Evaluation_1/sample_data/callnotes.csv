@@ -1,0 +1,226 @@
+financial_advisor_id,customer_id,note,id
+755,525,I think this customer will renew,0
+761,526,I think this customer will renew,1
+765,527,I think this customer will renew,2
+774,528,I called this customer many times but they never answered,3
+758,529,I called this customer many times but they never answered,4
+756,530,I called this customer many times but they never answered,5
+772,531,I think this customer will renew,6
+778,532,I don't think this customer will renew,7
+765,533,I don't think this customer will renew,8
+756,534,I think this customer will renew,9
+766,535,I think this customer will renew,10
+758,536,I think this customer will renew,11
+759,537,I don't think this customer will renew,12
+763,538,this customer has passed away,13
+760,539,I think this customer will renew,14
+776,540,this customer has passed away,15
+765,541,I don't think this customer will renew,16
+756,542,this customer has passed away,17
+761,543,I called this customer many times but they never answered,18
+777,544,I called this customer many times but they never answered,19
+755,545,this customer has passed away,20
+761,546,I think this customer will renew,21
+779,547,this customer has passed away,22
+765,548,this customer has passed away,23
+750,549,I called this customer many times but they never answered,24
+763,550,I think this customer will renew,25
+755,551,I called this customer many times but they never answered,26
+756,552,this customer has passed away,27
+758,553,I called this customer many times but they never answered,28
+773,554,I called this customer many times but they never answered,29
+771,555,I think this customer will renew,30
+772,556,I called this customer many times but they never answered,31
+752,557,I called this customer many times but they never answered,32
+755,558,I don't think this customer will renew,33
+774,559,I don't think this customer will renew,34
+771,560,I don't think this customer will renew,35
+775,561,I don't think this customer will renew,36
+764,562,this customer has passed away,37
+777,563,I think this customer will renew,38
+776,564,this customer has passed away,39
+766,565,I think this customer will renew,40
+766,566,I don't think this customer will renew,41
+770,567,I don't think this customer will renew,42
+761,568,I don't think this customer will renew,43
+759,569,I think this customer will renew,44
+750,570,I think this customer will renew,45
+766,571,I think this customer will renew,46
+773,572,this customer has passed away,47
+778,573,I called this customer many times but they never answered,48
+770,574,I called this customer many times but they never answered,49
+771,575,I think this customer will renew,50
+765,576,I don't think this customer will renew,51
+775,577,I don't think this customer will renew,52
+759,578,I don't think this customer will renew,53
+775,579,I don't think this customer will renew,54
+763,580,this customer has passed away,55
+770,581,I think this customer will renew,56
+758,582,this customer has passed away,57
+763,583,I called this customer many times but they never answered,58
+752,584,I think this customer will renew,59
+764,585,this customer has passed away,60
+771,586,I called this customer many times but they never answered,61
+757,587,I called this customer many times but they never answered,62
+759,588,I called this customer many times but they never answered,63
+760,589,this customer has passed away,64
+751,590,I called this customer many times but they never answered,65
+776,591,I don't think this customer will renew,66
+760,592,I called this customer many times but they never answered,67
+779,593,I don't think this customer will renew,68
+758,594,this customer has passed away,69
+775,595,this customer has passed away,70
+778,596,I think this customer will renew,71
+760,597,I called this customer many times but they never answered,72
+763,598,I called this customer many times but they never answered,73
+759,599,I think this customer will renew,74
+758,600,I think this customer will renew,75
+777,601,I think this customer will renew,76
+774,602,I called this customer many times but they never answered,77
+763,603,this customer has passed away,78
+779,604,I don't think this customer will renew,79
+769,605,I called this customer many times but they never answered,80
+752,606,I think this customer will renew,81
+758,607,I called this customer many times but they never answered,82
+762,608,this customer has passed away,83
+768,609,I think this customer will renew,84
+770,610,I think this customer will renew,85
+776,611,I think this customer will renew,86
+755,612,I think this customer will renew,87
+759,613,I don't think this customer will renew,88
+760,614,this customer has passed away,89
+757,615,I called this customer many times but they never answered,90
+778,616,I called this customer many times but they never answered,91
+765,617,this customer has passed away,92
+765,618,I don't think this customer will renew,93
+765,619,I think this customer will renew,94
+752,620,this customer has passed away,95
+772,621,I called this customer many times but they never answered,96
+759,622,I called this customer many times but they never answered,97
+756,623,this customer has passed away,98
+755,624,I think this customer will renew,99
+765,625,I don't think this customer will renew,100
+764,626,I don't think this customer will renew,101
+754,627,I called this customer many times but they never answered,102
+762,628,I called this customer many times but they never answered,103
+751,629,this customer has passed away,104
+751,630,I think this customer will renew,105
+757,631,I don't think this customer will renew,106
+761,632,this customer has passed away,107
+754,633,I don't think this customer will renew,108
+760,634,I called this customer many times but they never answered,109
+779,635,I called this customer many times but they never answered,110
+773,636,this customer has passed away,111
+771,637,I called this customer many times but they never answered,112
+752,638,this customer has passed away,113
+767,639,I don't think this customer will renew,114
+752,640,I think this customer will renew,115
+762,641,this customer has passed away,116
+766,642,I think this customer will renew,117
+755,643,I think this customer will renew,118
+768,644,I don't think this customer will renew,119
+754,645,I called this customer many times but they never answered,120
+769,646,I called this customer many times but they never answered,121
+765,647,I think this customer will renew,122
+754,648,I don't think this customer will renew,123
+757,649,I called this customer many times but they never answered,124
+763,650,this customer has passed away,125
+764,651,I don't think this customer will renew,126
+763,652,this customer has passed away,127
+751,653,I think this customer will renew,128
+776,654,this customer has passed away,129
+765,655,this customer has passed away,130
+760,656,I don't think this customer will renew,131
+773,657,I think this customer will renew,132
+761,658,I don't think this customer will renew,133
+760,659,I don't think this customer will renew,134
+760,660,I think this customer will renew,135
+771,661,I don't think this customer will renew,136
+755,662,I called this customer many times but they never answered,137
+754,663,this customer has passed away,138
+769,664,this customer has passed away,139
+766,665,I think this customer will renew,140
+751,666,I called this customer many times but they never answered,141
+779,667,I think this customer will renew,142
+779,668,I don't think this customer will renew,143
+778,669,I think this customer will renew,144
+759,670,this customer has passed away,145
+752,671,I don't think this customer will renew,146
+775,672,this customer has passed away,147
+766,673,I don't think this customer will renew,148
+777,674,this customer has passed away,149
+766,675,I don't think this customer will renew,150
+767,676,I don't think this customer will renew,151
+767,677,I called this customer many times but they never answered,152
+760,678,I called this customer many times but they never answered,153
+778,679,I called this customer many times but they never answered,154
+773,680,I don't think this customer will renew,155
+751,681,I called this customer many times but they never answered,156
+764,682,I called this customer many times but they never answered,157
+768,683,this customer has passed away,158
+756,684,this customer has passed away,159
+752,685,I called this customer many times but they never answered,160
+767,686,this customer has passed away,161
+765,687,this customer has passed away,162
+773,688,I called this customer many times but they never answered,163
+765,689,I think this customer will renew,164
+779,690,I don't think this customer will renew,165
+753,691,I called this customer many times but they never answered,166
+765,692,I think this customer will renew,167
+756,693,I don't think this customer will renew,168
+766,694,this customer has passed away,169
+762,695,I called this customer many times but they never answered,170
+757,696,I called this customer many times but they never answered,171
+772,697,I called this customer many times but they never answered,172
+772,698,this customer has passed away,173
+760,699,I called this customer many times but they never answered,174
+754,700,I don't think this customer will renew,175
+777,701,I think this customer will renew,176
+752,702,I don't think this customer will renew,177
+766,703,I think this customer will renew,178
+760,704,I don't think this customer will renew,179
+758,705,this customer has passed away,180
+761,706,I think this customer will renew,181
+758,707,this customer has passed away,182
+763,708,I think this customer will renew,183
+758,709,I think this customer will renew,184
+778,710,I think this customer will renew,185
+773,711,this customer has passed away,186
+760,712,I don't think this customer will renew,187
+754,713,this customer has passed away,188
+757,714,I don't think this customer will renew,189
+773,715,I called this customer many times but they never answered,190
+766,716,this customer has passed away,191
+751,717,I called this customer many times but they never answered,192
+761,718,I think this customer will renew,193
+758,719,I don't think this customer will renew,194
+776,720,I called this customer many times but they never answered,195
+752,721,I called this customer many times but they never answered,196
+765,722,I called this customer many times but they never answered,197
+751,723,I don't think this customer will renew,198
+779,724,this customer has passed away,199
+755,725,I don't think this customer will renew,200
+759,726,I don't think this customer will renew,201
+755,727,I don't think this customer will renew,202
+772,728,I called this customer many times but they never answered,203
+770,729,I don't think this customer will renew,204
+753,730,this customer has passed away,205
+753,731,this customer has passed away,206
+752,732,I think this customer will renew,207
+773,733,I called this customer many times but they never answered,208
+751,734,this customer has passed away,209
+778,735,I don't think this customer will renew,210
+766,736,this customer has passed away,211
+755,737,I don't think this customer will renew,212
+754,738,I called this customer many times but they never answered,213
+778,739,this customer has passed away,214
+764,740,this customer has passed away,215
+766,741,I don't think this customer will renew,216
+761,742,this customer has passed away,217
+779,743,I called this customer many times but they never answered,218
+754,744,I think this customer will renew,219
+767,745,I called this customer many times but they never answered,220
+759,746,this customer has passed away,221
+762,747,I don't think this customer will renew,222
+757,748,I called this customer many times but they never answered,223
+750,749,I don't think this customer will renew,224

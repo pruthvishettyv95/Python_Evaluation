@@ -6,7 +6,7 @@ Each Financial Advisor has a set of customers assigned to them.
 
 Your backend will need to be able to:
 
-- For some Financial Advisor, GET a list of all customers who have not yet been called about their mortgage renewal
+- For some Financial Advisor, GET a list of all customers who have not yet been called about their mortgage renewal. (Every time a Financial advisor calls a customer, they make a CallNotes record.) 
 - For some Financial Advisor and customer, POST and GET notes from phonecalls about their mortgage renewal
 - For some Financial Advisor and customer, POST details of an appointment to renew their mortgage including the date and office location.  
 - For some Financial Advisor and day, GET a list of appointments including customer details for each appointment and office location 
@@ -17,3 +17,8 @@ Your colleague wants to do analytics too. So you will need to implement one more
 - GET a list of financial advisors and summary statistics for each one including how many customers they have, how many customers they have called, how many customers they have made appointments with and finally how many customers have renewed their mortgages. 
 
 To be clear, you do not have to produce a frontend. The API app should produce api endpoints on localhost and I will test them using the python requests module. 
+
+## Data_Maker and Sample Data
+
+I made you some sample data for this problem in the sample_data folder and I also made a data_maker module to generate new datasets for you. 
+

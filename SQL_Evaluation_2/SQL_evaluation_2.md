@@ -1,0 +1,3 @@
+## SQL Evaluation 2
+
+Our junior data analyst executed a sql file titled "Clean_Database.sql" that executed a series of create and drop table statements so that now our database is whiped very clean. Fortunately we have some csvs from a few queries we made yesterday. Please implement a sqlite database using python's sqlite library to have a table for invoices and for prices corresponding to the csvs saved here and also provide a query and csv report on sales revenue by product and month as a csv output. 

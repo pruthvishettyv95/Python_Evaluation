@@ -1,5 +1,5 @@
 
-## General instructions
+## General instructions (you can ignore these if you are doing SQL Evaluations only)
 
 The version of python to be used for this assignment is the default version that ships with Ubuntu at time of writing (3.8). 
 

@@ -1,3 +1,4 @@
 virtualenv
-create_sample_data.py
-data_maker
+__pycache__
+solution.py 
+*.ipynb
